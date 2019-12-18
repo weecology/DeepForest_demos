@@ -11,9 +11,12 @@ source DeepForest/bin/activate
 pip install DeepForest
 pip install git+git://github.com/bw4sz/keras-retinanet.git
 
-#Optionally add juypter notebooks
-pip install jupyter
-python
+```
+
+Optionally add the dependencies for creating shapefiles and viewing the jupyter notebooks
+
+```
+pip install jupyter shapely geopandas
 ```
 
 Due to data sharing agreements, the remote sensing source data is not available for this repo.
