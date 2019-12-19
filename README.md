@@ -20,3 +20,5 @@ pip install jupyter shapely geopandas
 ```
 
 Due to data sharing agreements, the remote sensing source data is not available for this repo.
+
+If you would like to view training visualizations, install comet_ml. See comet.ml for login and an API key.
